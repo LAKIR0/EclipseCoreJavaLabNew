@@ -14,7 +14,7 @@ public class StringFunc {
 			System.out.println(s.charAt(2)); //to print charcter at 0
 			System.out.println(s.trim());//to trim the stats and end  space
 			System.out.println(s.length());//to find the length
-			
+			sc.close();
 		}//end main
 
 	}//end class

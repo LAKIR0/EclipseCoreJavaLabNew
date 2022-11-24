@@ -24,6 +24,7 @@ private double a,b,sum,subs,multi,div;//declaring variables
 		  System.out.println("substraction of two no. : "+subs);//to print substraction
 		  System.out.println("multiplication of two no. : "+multi);//to print multiplication
 		  System.out.println("division of two no. : "+div);//to print division
+		  sc.close();
 	  }
 	  
 	  catch( ArithmeticException | InputMismatchException e)
